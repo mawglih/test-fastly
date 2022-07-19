@@ -1,0 +1,9 @@
+# This file describes a Fastly Compute@Edge package. To learn more visit:
+# https://developer.fastly.com/reference/fastly-toml/
+
+authors = ["omarkoff@1800flowers.com"]
+description = "Training project"
+language = "javascript"
+manifest_version = 2
+name = "fastly-training"
+service_id = "0q3iGH4s2tRWpXZP6x89tk"

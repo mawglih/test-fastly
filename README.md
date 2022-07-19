@@ -24,6 +24,3 @@ The template uses webpack to bundle `index.js` and its imports into a single JS 
 
 Please see our [SECURITY.md](SECURITY.md) for guidance on reporting security-related issues.
 
-
-## My token
-iWG6kkDn0Jt2T7dOhB-T7-eAfLI-tqjm
